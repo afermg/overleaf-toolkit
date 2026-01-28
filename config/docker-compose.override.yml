@@ -1,0 +1,4 @@
+---
+services:
+  sharelatex:
+    image: overleafcep/sharelatex:6.0.1-ext-v3.3
